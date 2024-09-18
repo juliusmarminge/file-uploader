@@ -43,7 +43,7 @@
     "sonner": "^1.4.41",
     "tailwind-merge": "^2.2.2",
     "tailwindcss-animate": "^1.0.7",
-    "uploadthing": "^6.7.0",
+    "uploadthing": "https://pkg.pr.new/pingdotgg/uploadthing@961",
     "zod": "^3.22.4"
   },
   "devDependencies": {
@@ -69,5 +69,5 @@
   "ct3aMetadata": {
     "initVersion": "7.30.0"
   },
-  "packageManager": "pnpm@8.15.9"
+  "packageManager": "pnpm@9.10.0"
 }
